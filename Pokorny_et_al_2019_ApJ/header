@@ -1,0 +1,26 @@
+# Header for ASCII FILES
+# Column Descriptions and Units
+# Column 1: Cartesian X (km)
+# Column 2: Cartesian Y (km)
+# Column 3: Cartesian Z (km)
+# Column 4: Meteoroid Mass Flux in g/cm^2/s
+# Column 5: Meteoroid Energy Flux in kJ/cm^2/s
+# Column 6: Meteoroid Ejecta Mass Production Rate in g/cm^2/s
+# Column 7: Average Slope (degrees)
+# Column 8: Average Surface Temperature from Diviner experiment (K)
+# Column 9: Maximum Surface Temperature from Diviner experiment (K)
+# Column 10: The ice layer stability in cm per Gyr - (-1) means the Ice is stable for 4.5 Gyr, (-999) means that the ice cannot exist - refer to https://pds-geosciences.wustl.edu/lro/lro-l-dlre-4-rdr-v1/lrodlr_1001/document/dp_sis.pdf - Page 49
+# Column 11: The geometric albedo of the lunar surface from Lola Experiment (from 0 to 1)
+ 
+#X (km)   Y (km)   Z(km)         Mass Flux     Energy Flux   Ejecta Mass   Slope (deg)   Average T (K) Max T(K)      Ice Depth     Albedo
+ 151.875 -151.875 -1.723502E+03  3.990191E-17  1.004000E-14  2.973423E-13  8.552710E-01  1.108165E+02  2.236520E+02  3.391300E-01  3.008172E-01
+ 151.875 -151.625 -1.723525E+03  3.969241E-17  9.970760E-15  2.951819E-13  3.119989E+00  1.126110E+02  2.234750E+02  4.366500E-01  3.014591E-01
+ 151.875 -151.375 -1.723537E+03  3.943469E-17  9.891835E-15  2.941957E-13  5.793202E+00  1.126110E+02  2.234750E+02  4.366500E-01  3.017762E-01
+ 151.875 -151.125 -1.723536E+03  3.935680E-17  9.868528E-15  2.941596E-13  6.437432E+00  1.008850E+02  2.105160E+02  1.342400E-01  3.017110E-01
+ 151.875 -150.875 -1.723530E+03  3.939604E-17  9.880537E-15  2.943682E-13  5.913073E+00  9.972600E+01  2.099690E+02  1.200200E-01  3.017339E-01
+ 151.875 -150.625 -1.723526E+03  3.949559E-17  9.910560E-15  2.946685E-13  4.823930E+00  9.335700E+01  2.183310E+02  5.795000E-02  3.011422E-01
+ 151.875 -150.375 -1.723526E+03  3.947600E-17  9.905253E-15  2.948174E-13  4.927026E+00  9.335700E+01  2.183310E+02  5.795000E-02  3.009073E-01
+ 151.875 -150.125 -1.723526E+03  3.935136E-17  9.868012E-15  2.949869E-13  6.007284E+00  9.168900E+01  2.252550E+02  5.261000E-02  3.018754E-01
+ 151.875 -149.875 -1.723521E+03  3.923556E-17  9.835000E-15  2.956719E-13  6.971560E+00  9.168900E+01  2.252550E+02  5.261000E-02  3.029154E-01
+ 151.875 -149.625 -1.723509E+03  3.915137E-17  9.814247E-15  2.971156E-13  7.953012E+00  8.875800E+01  2.261070E+02  5.238000E-02  3.040259E-01
+
