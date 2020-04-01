@@ -1,0 +1,13 @@
+#!/bin/csh
+
+# USERS MUST CHANGE THESE !!!!!!
+set FORTRAN=gfortran
+set FFLAGS='-Ofast -mcmodel=medium'
+
+foreach file (*.f90)
+    echo $file | set file2=`awk -F"." '{print$1}'`
+    echo $file
+    $FORTRAN  $FFLAGS -o  $file2 $file
+end
+
+rm *.o
