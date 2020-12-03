@@ -1,0 +1,11 @@
+#ifndef __fastbvh_HPP__
+#define __fastbvh_HPP__
+
+#include "../src/BVH.h"
+#include "../src/Tri.hpp"
+
+#endif // __fastbvh_HPP__
+
+// Local Variables:
+// mode: c++
+// End:
