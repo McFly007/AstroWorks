@@ -1,5 +1,5 @@
 # Figure 9 left - Impact velocity vs Ecliptic latitude color coded by mass flux
-# Ecliptic latitude, Impact Velocity, Mass Flux at Moon (kg s-1)
+# Ecliptic latitude (deg), Impact Velocity (km/s), Mass Flux at Moon (kg/day)
 -89. 1. 0
 -89. 3. 0.00508457
 -89. 5. 0.0336647
